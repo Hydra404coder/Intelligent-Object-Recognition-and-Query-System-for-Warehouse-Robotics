@@ -1,4 +1,4 @@
-# 🤖 Intelligent Warehouse Robotics Assistant
+#  Intelligent Warehouse Robotics Assistant
 ### Combining Computer Vision & Retrieval-Augmented Generation for Smart Item Handling
 
 > 📋 **Built as a solution to the AI Research Intern — Technical Assessment Task**
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Design an intelligent warehouse robotics system that can:
 1. **Visually identify** the category of an item (fragile, hazardous, or heavy) from an image
@@ -15,9 +15,9 @@ Design an intelligent warehouse robotics system that can:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
-<img width="857" height="438" alt="image" src="https://github.com/user-attachments/assets/0f8a5a53-9f8a-4f4a-b23f-a1a7d30e6afe" />
+<img width="1026" height="599" alt="image" src="https://github.com/user-attachments/assets/dc0f43ab-b1ee-410e-b6e7-89f71707bb18" />
 
 
 ---
@@ -36,9 +36,6 @@ Design an intelligent warehouse robotics system that can:
 | Weighted Avg| 0.95      | 0.94   | 0.94     | 18      |
 
 ### Training Progress (15 Epochs)
-
-<img width="1026" height="599" alt="image" src="https://github.com/user-attachments/assets/dc0f43ab-b1ee-410e-b6e7-89f71707bb18" />
-
 
 ---
 
